@@ -1,4 +1,4 @@
-const canvasSel = '#myCanvas'
+const canvasSel = '#canvas'
 //const {canvas, ctx, bb} = getCanvas(canvasSel)
 
 function main() {
